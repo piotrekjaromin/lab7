@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="ticket-agency-ejb:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ticket_agency_ejb_ejb_exploded.rar</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ticket-agency-ejb/ejb/EJB" />
+      <element id="module-output" name="ticket-agency-ejb" />
+    </root>
+  </artifact>
+</component>
